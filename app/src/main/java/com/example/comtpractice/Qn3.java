@@ -8,7 +8,7 @@ public class Qn3 {
         {
             if (numArray[index]>value)
             {
-                
+                System.out.println();
             }
         }
     }
